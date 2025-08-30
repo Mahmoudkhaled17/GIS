@@ -8,7 +8,7 @@ Initial- and final-state project packages for the Make a Map exercise, part of t
 
 
 
-\##Terms of Use
+## Terms of Use
 
 Use of this Data is restricted to training, demonstration, and educational purposes only. This Data cannot be sold or used for marketing without the express written consent of Environmental Systems Research Institute Inc.
 
