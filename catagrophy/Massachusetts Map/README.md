@@ -1,6 +1,6 @@
-\#Massachusetts
+# Massachusetts
 
-\##Description
+## Description
 
 Initial- and final-state project packages for the Make a Map exercise, part of the Cartography. MOOC. Contains data to create a reference map of the state of Massachusetts.
 
